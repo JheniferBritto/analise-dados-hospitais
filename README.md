@@ -23,6 +23,3 @@ Projeto prático utilizando Pandas para limpeza, tratamento e análise de dados.
 - Pandas
 - Jupyter Notebook
 
-## 📁 Arquivo
-
-- Python2026.ipynb
